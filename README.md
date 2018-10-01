@@ -1,2 +1,2 @@
 # BLOCKI
-A tangible user interface for Internet of Things using OpenCV
+A tangible user interface for the Internet of Things using OpenCV
